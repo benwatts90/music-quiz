@@ -1,0 +1,14 @@
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.csproj.AssemblyReference.cache
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.AssemblyInfoInputs.cache
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.AssemblyInfo.cs
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.csproj.CoreCompileInputs.cache
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.exe
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.deps.json
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.runtimeconfig.json
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.runtimeconfig.dev.json
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.dll
+C:\Users\benwa\source\repos\music-quiz\bin\Debug\netcoreapp3.1\music-quiz.pdb
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.dll
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.pdb
+C:\Users\benwa\source\repos\music-quiz\obj\Debug\netcoreapp3.1\music-quiz.genruntimeconfig.cache
